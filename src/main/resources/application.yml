@@ -1,0 +1,4 @@
+azkaban-demo:
+  url: http://localhost:8081
+  username: azkaban
+  password: azkaban
